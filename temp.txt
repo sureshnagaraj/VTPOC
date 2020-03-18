@@ -1,0 +1,86 @@
+SC presentation material
+------------------------
+
+scope
+interim
+excel up
+enhancements
+delivery plan
+cost
+
+--------------
+
+SIceemb - 530 hours
+
+packaging type - other - 142 hours
+
+----------
+part number to simulate
+
+TUV1001
+1063726
+BRG
+1079223
+HAG
+1521596
+VNX
+20354271
+23145734 
+
+-----------
+
+Redmi 8A 3 Gb 32 GB
+--------------------
+https://www.amazon.in/Redmi-3GB-32GB-Midnight-Black/dp/B07YDCVH2Y/ref=pd_sbs_107_4/261-9642387-3848262?_encoding=UTF8&pd_rd_i=B07YDCVH2Y&pd_rd_r=f4982c92-0d4e-44b3-8389-76a5fe44fccd&pd_rd_w=omQ65&pd_rd_wg=Rosdt&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=7EA8TCQQY3Y5H0DEMXZT&psc=1&refRID=7EA8TCQQY3Y5H0DEMXZT
+
+-------------
+
+Strategic priorities
+---------------------
+https://volvogroup.sharepoint.com/sites/cs-strategic-direction/SitePages/volvo-group-strategic-it-priorities.aspx 
+ 
+
+1) List courses in navigator for strategic priorities 
+	AI & ML
+	Blockchain
+	Cloud
+	Analytics
+	Blockchain
+	cybersecurity
+	Advanced Security
+	UI & UX
+	3D printing
+2) video links in violin for strategic priority 6.2 (deep drive videos link)
+
+Advanced Analytics - no trainings
+
+Type
+----
+e-learning
+classroom
+video
+
+313007: Cloud Computing Training Program Level 1
+
+313503: Fundamentals of Cloud Computing - Activate - pluralsight training
+
+Add
+
+i) security trainings
+ii) SP4 Enabling Architecture and IT Platforms - Lunch seminar - Video 
+iii) RPA
+
+316700
+315346
+
+-----------
+Dotnet core project
+-------------------
+Moorthy Balaji Gopula <balaji.gopula.moorthy@consultant.volvo.com>
+Pratap Anuj <anuj.pratap@consultant.volvo.com> 
+
+public async Task<ActionResult<Country>> GetCountry(string code)
+
+---
+
+hariprasath.rajendran@consultant.volvo.com
